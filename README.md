@@ -1,4 +1,4 @@
-# [RELBOSS](https://relboss.github.io)
+# [deadibone](https://deadibone.github.io)
 Just a weird image viewer
 ## If you want to try this piece of garbage out, you can...
 ### Windows
